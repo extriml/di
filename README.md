@@ -1,2 +1,2 @@
-# diKit
+# di
 Dependency Injection
