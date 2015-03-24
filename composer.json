@@ -1,0 +1,24 @@
+{
+    "name": "elise/di",
+    "description": "Di Manager",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Orlov",
+            "email": "i@alexxorlovv.name"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+        "elise\\di\\": ""
+        }
+    },
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
